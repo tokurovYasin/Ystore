@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+
+.AboutUs {
+  width: 85%;
+  margin: auto;
+}
+
+.About_us {
+  display: flex;
+
+  margin-top: 30px;
+}
+.AU {
+  margin-left: 5px;
+  color: #828282;
+}
+
+.AboutUs_header {
+  margin-top: 50px;
+}
+.AboutUs_header_img {
+  width: 100%;
+  height: 100vh;
+}
+
+.AboutUs_header_text {
+  font-size: 67px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+  margin: 40px;
+}
+
+.AboutUs_info {
+  padding: 90px 20px;
+  display: flex;
+}
+.AboutUs_info_block1 {
+  width: 50%;
+  padding-right: 10px;
+}
+
+.AboutUs_info_block1_h2 {
+  font-size: 32px;
+  font-family: "Roboto";
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.AboutUs_info_block1_text {
+  color: #686868;
+  font-size: 19px;
+}
+
+.AboutUs_info_block2_1 {
+  width: 270px;
+  height: 180px;
+  border: #aaaaaa 0.5px solid;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 0 5px;
+}
+.AboutUs_info_block2_1_1 {
+  display: flex;
+  width: 100%;
+}
+.AboutUs_info_block2_1_1_img {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+}
+
+.AboutUs_info_block2_1_1_h6 {
+  font-size: 19px;
+  font-family: "Roboto";
+}
+
+.AboutUs_info_block2_1_2_text {
+  margin-top: 14px;
+  font-size: 17px;
+  font-weight: 400;
+  color: #656565;
+}
+
+.AboutUs_info_block2 {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 10px;
+}
+
+.AboutUs_feedback_block_1 {
+  margin-right: 8px;
+}
+.AboutUs_feedback_h2 {
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 35px;
+  margin-bottom: 50px;
+}
+
+.AboutUs_feedback_block {
+  width: 85%;
+  margin: auto;
+  display: flex;
+}
+
+.AboutUs_feedback_block_2 {
+  width: 552px;
+  height: 310px;
+  background-color: #e0e0e0a7;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 8px;
+}
+
+.AboutUs_feedback_block2_1 {
+  width: 220px;
+  height: 120px;
+  margin: 10px;
+}
+
+.AboutUs_feedback_block2_1_1 {
+  display: flex;
+}
+
+.AboutUs_feedback_block2_1_1_h6 {
+  margin-left: 5px;
+  font-size: 18px;
+  font-family: "Roboto";
+  color: #919090;
+}
+
+.AboutUs_feedback_block2_1_2_text {
+  margin-top: 9px;
+  font-size: 22px;
+}
