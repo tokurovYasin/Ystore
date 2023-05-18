@@ -133,7 +133,7 @@ export default function PrimarySearchAppBar() {
               color="inherit"
             >
               <Badge badgeContent={4} color="error">
-                <LocalMallTwoToneIcon />
+                <img src="https://www.istore.kg/static/img/union.svg" alt="" />
               </Badge>
             </IconButton>
           </Box>
